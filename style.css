@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=Karla:ital,wght@0,200..800;1,200..800&display=swap");
+
+:root {
+  --Blue950: hsl(256, 26%, 20%);
+  --Blue500: hsl(216, 30%, 68%);
+  --Gray950: hsl(270, 9%, 17%);
+  --Gray700: hsl(273, 4%, 51%);
+  --Gray50: hsl(0, 0%, 98%);
+}
+
+h1,
+h2,
+h3,
+h4 {
+  font-family: "DM Serif Display", serif;
+}
+
+p,
+a,
+button {
+  font-size: 16px;
+  font-family: "Karla", sans-serif;
+}
